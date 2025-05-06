@@ -13,7 +13,7 @@ This project proposes a **deep sorting strategy** combining:
 - **Feature Engineering**: Extract 108 implicit features based on characteristic curves (voltage–capacity, current–time, voltage–time curves) and their first- and second-order derivatives.
 - **Deep Sorting Framework**: Perform two-step sorting — first grouping by baseline features, then refining by higher-order derivative features to achieve superior consistency.
 
-![Deep Sorting Framework](./Deep_sorting_framework.tif)
+![Deep Sorting Framework](./Deep_sorting_framework.png)
 
 ## 🏗️ Project Structure
 ```
