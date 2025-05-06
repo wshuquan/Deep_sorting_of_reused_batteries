@@ -12,7 +12,7 @@ With the increasing retirement of electric vehicle batteries, **effective second
 
 This project proposes a **deep sorting strategy** combining:
 - **Feature Engineering**: Extract 108 implicit features based on characteristic curves (voltage–capacity, current–time, voltage–time curves) and their first- and second-order derivatives.
-- **Deep Sorting Framework**: Perform two-step sorting — first grouping by baseline features, then refining by higher-order derivative features to achieve superior consistency.
+- **Deep Sorting Framework**: Perform three-step sorting — initial grouping by baseline features, then refining by velocity and acceleration features to achieve superior consistency.
 
 ---
 
@@ -72,7 +72,7 @@ unzip second_life_phase.zip
 ```bash
 cd Feature_engineering
 
-# 1) Extract single cycle curve
+# 1) Extract single cycle data
 python 1_cycle_data_extraction.py
 
 # 2) Extract 108 implicit features
