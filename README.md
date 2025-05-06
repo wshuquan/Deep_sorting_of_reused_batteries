@@ -58,6 +58,11 @@ pip install numpy==1.21.5 scikit-learn==1.0.2
 
 ---
 
+## 📊 Raw dataset  
+Please download the raw dataset from Zenodo (DOI: [10.5281/zenodo.14859405](https://doi.org/10.5281/zenodo.14859405)) and extract it into the root of this repository before running any scripts.
+
+---
+
 ## 🚀 Usage Instructions
 
 ### 1. Download Dataset
