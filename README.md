@@ -16,7 +16,7 @@ This project proposes a **deep sorting strategy** combining:
 
 ---
 
-![Deep Sorting Framework](./Deep_sorting_framework.png)
+![](https://github.com/wshuquan/Deep_sorting_of_reused_batteries/blob/main/Deep_sorting_framework.png)
 
 ---
 
